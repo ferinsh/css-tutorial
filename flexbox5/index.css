@@ -1,0 +1,22 @@
+.main-container {
+    display: flex;
+    border: 5px solid black;
+    margin: auto;
+    padding: 2%;
+    background: tomato;
+}
+
+.sub-container{
+    border: 3px solid brown;
+    background: beige;
+    margin: auto;
+    padding: 10%;
+    width: 100px;
+    height: 100px;
+    flex-grow: 2;
+    
+}
+
+.text {
+    text-align: center;
+}
